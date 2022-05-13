@@ -1,2 +1,2 @@
 # EXAMPLES
-an open-shop scheduling problem (table 9 EXAMPLES)
+an open-shop scheduling problem examples (table 9 )
